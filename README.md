@@ -24,3 +24,10 @@ Don't hesitate to contact us if you have any questions
 hints:
 you can use the python libraries: tifffile, rioarray, xarray, etc
 feel free to use whatever library if you find it convenient and efficient
+
+# How to run the script
+To run the script, launch it using Pycharm tools, or execute the following command in your terminal:
+
+```
+python -m images_comparing_script
+```
